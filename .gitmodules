@@ -1,0 +1,9 @@
+[submodule "Victim"]
+	path = Victim
+	url = https://github.com/rotba/Victim.git
+[submodule "bot"]
+	path = bot
+	url = https://github.com/rotba/bot.git
+[submodule "CC"]
+	path = CC
+	url = https://github.com/rotba/CC.git
